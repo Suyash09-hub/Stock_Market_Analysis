@@ -20,15 +20,6 @@ This project use the Android Studio and Kotlin. To build this project, use the "
 
 ## Android Studio IDE Setup
 For development, the latest version of Android Studio is required. The latest version can be downloaded from [here](https://developer.android.com/studio/)
-
-  - On Github, Fork the repository.
-  - Now copy the link of repository.
-  - Now open Git Bash, Use the command to clone repository.
-    ```bash
-        $ git clone https://github.com/YOUR-USERNAME/StockMoney
-    ``` 
-  - Close Android Studio if it is open.
-  - Or you can directly clone repository by go to import from version control.
   
   ## License
   
