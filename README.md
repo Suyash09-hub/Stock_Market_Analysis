@@ -1,6 +1,6 @@
 # Stock Market Analysis Application
 
-This project plan is for the development of the “Stock Money” open source repository
+This project plan is for the development of the “Stock Market Prediction” open source repository
 system. The goal of this app is to help people to buy/sell stocks without going into losses.
 Our team aims to develop an application that would enable them to know the best time to invest money.
 In this project, we are creating the app which will show us the real-time stock prices. 
