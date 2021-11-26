@@ -5,8 +5,6 @@ system. The goal of this app is to help people to buy/sell stocks without going 
 Our team aims to develop an application that would enable them to know the best time to invest money.
 In this project, we are creating the app which will show us the real-time stock prices. 
 
-To check Wireframe for this app Click [here.](https://balsamiq.cloud/sorup41/phd5lfv/rF073) 
-
 To read more information about Stock Money check this [Full guide](https://github.com/shashwattpandeyy/StockMoney/blob/master/Docs/FullGuide.md)
 
 ## Getting Started
