@@ -43,8 +43,4 @@ It supports many features such as:
 ![UML Class Diagram ](https://user-images.githubusercontent.com/69511929/92995555-45fb1f00-f522-11ea-9100-a54d20b5cc25.png)
 
 
-## Summary
-The easiest way to get started with Stock Money is to clone it, run it and step through the source code using Android Studio. If you have any problem through setup [read this](https://github.com/shashwattpandeyy/StockMoney/blob/master/README.md) 
-
-
 
