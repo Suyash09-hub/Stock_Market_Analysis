@@ -5,7 +5,7 @@ system. The goal of this app is to help people to buy/sell stocks without going 
 Our team aims to develop an application that would enable them to know the best time to invest money.
 In this project, we are creating the app which will show us the real-time stock prices. 
 
-To read more information about Stock Money check this [Full guide](https://github.com/Suyash09-hub/Stock_Market_Analysis/blob/main/Docs/FullGuide.md)
+To read more information about Stock Market Analysis check this [Full guide](https://github.com/Suyash09-hub/Stock_Market_Analysis/blob/main/Docs/FullGuide.md)
 
 ## Getting Started
 This project use the Android Studio and Kotlin. To build this project, use the "Import Project" in Android Studio.
